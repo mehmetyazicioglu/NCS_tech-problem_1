@@ -22,7 +22,7 @@ Print out function output from points (x, y):
 (0,0), (100, 100), (15,10) and (18, 18).
 
 
-to able to run,
+to able to run from command line
 
 python3.9 link_station.py 
 
