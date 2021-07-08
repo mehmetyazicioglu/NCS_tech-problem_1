@@ -33,3 +33,8 @@ Best link station for a point 0,0 is 0,0 with power 100.0
 No link station within reach for a point 100,100
 Best link station for a point 15,10 is 10,0 with power 0.6718427000252355
 Best link station for a point 18,18 is 20,20 with power 4.715728752538098
+
+
+I used a reference 
+https://books.google.com.tr/books?id=H9emM_LGFDEC&pg=PA239&lpg=PA239&dq=class+Points:+def+__init__(self,+x,+y):+self.x+%3D+x+self.y+%3D+y+def+__str__(self):&source=bl&ots=Zc5OgIL7sU&sig=ACfU3U0fpdFg5vBCy4oXtaElB9dNC-If9g&hl=en&sa=X&ved=2ahUKEwiozKGS79LxAhUQ-aQKHaGOCUYQ6AF6BAgCEAM#v=onepage&q=class%20Points%3A%20def%20__init__(self%2C%20x%2C%20y)%3A%20self.x%20%3D%20x%20self.y%20%3D%20y%20def%20__str__(self)%3A&f=false
+
